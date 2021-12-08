@@ -10,7 +10,7 @@ by G. S. Collins, E. L. Newland, D. Schwarz, M. Coleman, S. McMullan, I. J. Daub
 The contents of the repository is as follows:
 
 * `PaperFigures.ipynb` A Jupyter (Python 3.7) notebook documenting how all the figures in the paper were produced.
-* `mars_clusters.py` The Python implementation of the Monte Carlo model used to generate all the synthetic crater clusters described and presented in the paper. Note that this script imports and calls the fragment-cloud package, which must be downloaded and installed separately (see below).
+* `mars_clusters.py` The Python implementation of the Monte Carlo model used to generate all the synthetic crater clusters described and presented in the paper. Note that this script imports and calls the [fragment-cloud package](https://github.com/ImperialCollegeLondon/fragment-cloud), which must be downloaded and installed separately (see below).
 * `gtools` A Python module with supplementary functions used in both `mars_clusters.py` and `PaperFigures.ipynb`.
 * `obs-data` The observational data of new impact craters and clusters on Mars from Neidhart et al. (submitted) and Daubar et al. (submitted) used in this work to compare with model results.
 * `model-data` Synthetic crater cluster output data used to generate the figures in the paper. The model input parameters of specific models are documented in `record.csv` the summary statistics of each model is documented in `statistics.csv`. Output from individual Monte Carlo simulations are included as `output-<model_number>.csv`. `frag_summary-198.csv` is a file containing information about all surviving fragments for model 198.
@@ -18,7 +18,7 @@ The contents of the repository is as follows:
 
 ## Installation
 
-To run the Monte Carlo simulation you will need to download and install the fragment-cloud package. Brief installation instructions for that package are provided here for ease.
+To run the Monte Carlo simulation you will need to download and install the [fragment-cloud package](https://github.com/ImperialCollegeLondon/fragment-cloud). Brief installation instructions for that package are provided here for ease.
 
 ### Prerequisites
 
