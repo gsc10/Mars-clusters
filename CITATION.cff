@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Collins"
+  given-names: "Gareth S."
+  orcid: "https://orcid.org/0000-0002-6087-6149"
+- family-names: "Schwarz"
+  given-names: "Dominic"
+- family-names: "Coleman"
+  given-names: "Matthew"
+- family-names: "Newland"
+  given-names: "Eric L."
+title: "Meteoroid Fragmentation in the Martian Atmosphere 
+                   and the Formation of Crater Clusters: Source Code
+                   and Data"
+version: 1.0
+doi: 10.5281/zenodo.6566345
+date-released: 2022-05-20
+url: "https://doi.org/10.5281/zenodo.656634"
