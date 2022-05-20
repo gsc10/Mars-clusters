@@ -1,5 +1,7 @@
 # Meteoroid Fragmentation in the Martian Atmosphere and the Formation of Crater Clusters 
 
+[![DOI](https://zenodo.org/badge/435580898.svg)](https://zenodo.org/badge/latestdoi/435580898)
+
 ## Overview
 
 This repository contains source code and data to accompany a manuscript submitted to JGR-Planets:
